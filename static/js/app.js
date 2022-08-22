@@ -9,7 +9,7 @@ function buildTable(data) {
 
     // Next, loop through each object in the data
     // and append a row and cells for each value in that row
-    data.forEach((dataRow)) => {
+    data.forEach((dataRow) => {
         // Append a row to the table body
         let row = tbody.append("tr");
 
@@ -18,10 +18,10 @@ function buildTable(data) {
         Object.values(dataRow).forEach((val) => {
             let cell = row.append("td");
             cell.text(val);
-            }
+        }
         );
     });
-}
+};
 
 function handleClick()  {
     // Grab the datetime value from the filter
