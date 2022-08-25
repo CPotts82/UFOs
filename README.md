@@ -18,7 +18,8 @@ Once you have gone through your search results, simply click the "UFO Sightings"
 
 To show a very specific search, using all input boxes for filters, I have search for UFO Sightings on 1/01/2010, in El Cajon, California, in the United States and with a shape of 'triangle'. See below for the returned results:
 
-![Multi-criteria_Search](https://user-images.githubusercontent.com/106348899/186768169-05a909ba-f3bc-4b0c-996e-6d4922e86f7b.png)
+![Multi_Criteria_Search](https://user-images.githubusercontent.com/106348899/186768660-f9be2698-289a-41fe-888b-a767dfd6843c.png)
+
 
 ## Summary
 ### Drawback
