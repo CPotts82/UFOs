@@ -7,6 +7,7 @@ JavaScript, D3 library, HTML, Bootstrap, CSS,
   ### How-to-Use web app
     - Clear data filters by clicking the "UFO Sightings" phrase in upper left hand corner of page.
     - Under "Filter Search" where the input boxes are: put an appropriate search phrase in all of the boxes, one of the boxes,  none of the boxes or anywhere in between.  Whatever is placed in the input box(es) will be searched and the corresponding data will be returned in the table area upon pushing the 'Enter' button on the keyboard. For example: if I want to just search the UFO sightings for Texas, I will simply type "tx" in the "state" input box and press the 'Enter' button on my keyboard.  The sightings for the state of Texas will be returned in the table area. Please see image below:
+
 ![TX_UFO_Search](https://user-images.githubusercontent.com/106348899/186559269-3bb8d5c5-0692-4eab-972d-613d23572968.png)
 
 
