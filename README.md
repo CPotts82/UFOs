@@ -26,7 +26,7 @@ To show a very specific search, using all input boxes for filters, I have search
 This web application is super easy to use and undeniably fun but there are a couple of drawbacks:
   - If a user misspells anything while entering search criteria in the text boxes, the web application will not respond, the table stays blank and there is no indication of what the error is. This can definitely cause frustration in the user experience. 
   - This dataset is very limited. The dataset here only shows sightings from 1/1/2010 to 1/13/2010 which does not allow for spotting trends among the data. 
-  - The data is not displayed visually  - the interactive table is really nice and super easy to use, but the data is not displayed in a visually appealing way. Sure, true researchers will not mind reading the small print that returns their search criteria but others may not want so spend that time sifting through the data.
+  - The data is not displayed visually  - the interactive table is really nice and super easy to use, but the data is not displayed in a visually appealing way. Sure, true researchers will not mind reading the small print that returns their search criteria but others may not want to spend the time sifting through the data.
 
 ### Recommendations
    - Add an error message if someone misspells something in the search boxes. If an error message pops up, the user will immediately know what is wrong and can fix it, instead of wasting time troubleshooting.
