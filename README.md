@@ -2,7 +2,7 @@
 ## Overview
 The purpose of this project was to create a user-friendly, interactive web application to filter and display recent (2010) UFO sighting information from a large dataset. Using JavaScript and Bootstrap, an aesthetically pleasing and easy to use web application make filtering for unique UFO data interesting and entertaining. The objective was to allow users to filter the data in multiple different ways, from very specific to extremely broad. Options to filter by date, city, state, country, and shape make this a very transformable dataset. 
 ## Resources
-JavaScript, D3 library, HTML, Bootstrap, CSS
+JavaScript, HTML, D3 library, Bootstrap, CSS
 ## Results
 ### How-to-Use web app
 As stated in the Overview, this web application is extremely user friendly. There are just a couple of important details to make note of, like ensuring you hit the 'ENTER' key on the keyboard versus clicking a search button with your mouse. The other important factor is ensuring you click the top left "UFO Sightings" phrase to clear the input boxes and create a fresh search.  We will now walk through the search process:
@@ -23,7 +23,12 @@ To show a very specific search, using all input boxes for filters, I have search
 
 ## Summary
 ### Drawback
-   - limited data - This dataset is only from 1/1/2010 to 1/13/2010. Expand this set to include 10 years or more of data so trends can be spotted. 
+This web application is super easy to use and undeniably fun but there are a couple of drawbacks:
+  - If a user misspells anything while entering search criteria in the text boxes, the web application will not respond, the table stays blank and there is no indication of what the error is. This can definitely cause frustration in the users experience. 
+  - This dataset is very limited. The dataset here only shows sightings from 1/1/2010 to 1/13/2010.
+  - The data is not displayed visually. While the website is user friendly and visually appealling, the table data is not. The requested data is simply returned back to the user in a very basic table format.
+
+   - limited data - This dataset is only from  Expand this set to include 10 years or more of data so trends can be spotted. 
    - not displayed visually  - the interactive table is really nice and super easy to use, but the data is not displayed in a visually appealing way. Sure, true researchers will not mind reading the small print that returns their search criteria but others may not want so spend that time sifting through the data.  
 ### Recommendations
    - add more data. Years worth of data. Add filter so you can filter by year.
