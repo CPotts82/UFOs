@@ -22,7 +22,7 @@ To show a very specific search, using all input boxes for filters, I have search
 
 
 ## Summary
-### Drawback
+### Drawbacks
 This web application is super easy to use and undeniably fun but there are a couple of drawbacks:
   - If a user misspells anything while entering search criteria in the text boxes, the web application will not respond, the table stays blank and there is no indication of what the error is. This can definitely cause frustration in the users experience. 
   - This dataset is very limited. The dataset here only shows sightings from 1/1/2010 to 1/13/2010 which does not allow for spotting trends among the data. 
