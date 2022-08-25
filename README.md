@@ -10,7 +10,9 @@ JavaScript, D3 library, HTML, Bootstrap, CSS,
 
 ![TX_UFO_Search](https://user-images.githubusercontent.com/106348899/186559269-3bb8d5c5-0692-4eab-972d-613d23572968.png)
 
+Once you have gone through your search results, simply click the "UFO Sightings" phrase in the top left corner o the page to clear the input boxes.  Now it is ready for a fresh search!!
 
+*** Search for multiple criteria -
 ## Summary
 ### Drawback
    - limited data - This dataset is only from 1/1/2010 to 1/13/2010. Expand this set to include 10 years or more of data so trends can be spotted. 
