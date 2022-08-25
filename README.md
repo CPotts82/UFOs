@@ -1,12 +1,14 @@
 # UFOs
 ## Overview
-The purpose of this project was to create a user-friendly, interactive web application to filter and display recent (2010) UFO sighting information from a large dataset. Using JavaScript and Bootstrap, an aesthetically pleasing and easy to use web application make filtering for unique UFO data interesting and entertaining. 
+The purpose of this project was to create a user-friendly, interactive web application to filter and display recent (2010) UFO sighting information from a large dataset. Using JavaScript and Bootstrap, an aesthetically pleasing and easy to use web application make filtering for unique UFO data interesting and entertaining. The objective was to allow users to filter the data in multiple different ways, from very specific to extremely broad. Options to filter by date, city, state, country, and shape make this a very transformable dataset. 
 ## Resources
-JavaScript, D3 library, HTML, Bootstrap, CSS, 
+JavaScript, D3 library, HTML, Bootstrap, CSS
 ## Results
 ### How-to-Use web app
-  - Clear data filters by clicking the "UFO Sightings" phrase in upper left hand corner of page.
-  - Under "Filter Search" where the input boxes are: put an appropriate search phrase in all of the boxes, one of the boxes,  none of the boxes or anywhere in between.  Whatever is placed in the input box(es) will be searched and the corresponding data will be returned in the table area upon pushing the 'Enter' button on the keyboard. For example: if I want to just search the UFO sightings for Texas, I will simply type "tx" in the "state" input box and press the 'Enter' button on my keyboard.  The sightings for the state of Texas will be returned in the table area. Please see image below:
+As stated in the Overview, this web application is extremely user friendly. There are just a couple of important details to make note of, like ensuring you hit the 'ENTER' key on the keyboard versus clicking a search button with your mouse. The other important factor is ensuring you click the top left "UFO Sightings" phrase to clear the input boxes and create a fresh search.  We will now walk through the search process:
+  Upon opening the web application you will notice the input boxes are ready for the filters to be put in.  The input boxes have placeholders inside of them so the user can see the appropriate format to use when entering text. There are five input boxes, the user may fill any or none of the boxes to obtain data, then press the 'Enter' key on the keyboard to return the search results. The beauty of this web app is that the user does not have to fill all of the search boxes for the application to run and return the requested data in the table. After the user is done reading through the returned data, they may click the top left phrase "UFO Sightings" to clear the input boxes and ready them for a new search.  Another option is that the user simply edit the text boxes as they wish. When the text boxes hold the desired information, the user simply has to press 'Enter' to have the data returned to them. 
+Examples of Searches:
+The image below shows the search performed on the UFO data with the only filter being for the 'state' input box.  I have searched for all UFO Sightings in the state of Texas.  See below:
 
 ![TX_UFO_Search](https://user-images.githubusercontent.com/106348899/186559269-3bb8d5c5-0692-4eab-972d-613d23572968.png)
 
