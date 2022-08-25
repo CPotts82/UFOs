@@ -6,7 +6,9 @@ JavaScript, D3 library, HTML, Bootstrap, CSS
 ## Results
 ### How-to-Use web app
 As stated in the Overview, this web application is extremely user friendly. There are just a couple of important details to make note of, like ensuring you hit the 'ENTER' key on the keyboard versus clicking a search button with your mouse. The other important factor is ensuring you click the top left "UFO Sightings" phrase to clear the input boxes and create a fresh search.  We will now walk through the search process:
-  Upon opening the web application you will notice the input boxes are ready for the filters to be put in.  The input boxes have placeholders inside of them so the user can see the appropriate format to use when entering text. There are five input boxes, the user may fill any or none of the boxes to obtain data, then press the 'Enter' key on the keyboard to return the search results. The beauty of this web app is that the user does not have to fill all of the search boxes for the application to run and return the requested data in the table. After the user is done reading through the returned data, they may click the top left phrase "UFO Sightings" to clear the input boxes and ready them for a new search.  Another option is that the user simply edit the text boxes as they wish. When the text boxes hold the desired information, the user simply has to press 'Enter' to have the data returned to them. 
+
+  Upon opening the web application you will notice the input boxes are ready for the filters to be put in.  The input boxes have placeholders inside of them so the user can see the appropriate format to use when entering text. There are five input boxes, the user may fill any or none of the boxes to obtain data, then press the 'Enter' key on the keyboard to return the search results. After the user is finished working through the returned data, they may click the top left phrase "UFO Sightings" to clear the input boxes and ready them for a new search.  Another option is that the user simply edit the text boxes as they wish. When the text boxes hold the desired information, the user simply has to press 'Enter' to have the data returned to them. 
+  
 Examples of Searches:
 The image below shows the search performed on the UFO data with the only filter being for the 'state' input box.  I have searched for all UFO Sightings in the state of Texas.  See below:
 
@@ -14,7 +16,10 @@ The image below shows the search performed on the UFO data with the only filter 
 
 Once you have gone through your search results, simply click the "UFO Sightings" phrase in the top left corner o the page to clear the input boxes.  Now it is ready for a fresh search!!
 
-*** Search for multiple criteria -
+To show a very specific search, using all input boxes for filters, I have search for UFO Sightings on 1/01/2010, in El Cajon, California, in the United States and with a shape of 'triangle'. See below for the returned results:
+
+![Multi-criteria_Search](https://user-images.githubusercontent.com/106348899/186768169-05a909ba-f3bc-4b0c-996e-6d4922e86f7b.png)
+
 ## Summary
 ### Drawback
    - limited data - This dataset is only from 1/1/2010 to 1/13/2010. Expand this set to include 10 years or more of data so trends can be spotted. 
