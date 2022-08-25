@@ -29,6 +29,7 @@ This web application is super easy to use and undeniably fun but there are a cou
   - The data is not displayed visually  - the interactive table is really nice and super easy to use, but the data is not displayed in a visually appealing way. Sure, true researchers will not mind reading the small print that returns their search criteria but others may not want to spend the time sifting through the data.
 
 ### Recommendations
+My recommendations to make this an even more user friendly and dynamic web application are:
    - Add an error message if someone misspells something in the search boxes. If an error message pops up, the user will immediately know what is wrong and can fix it, instead of wasting time troubleshooting.
    - Add more data - Adding years worth of data would make this table even better. I know that would be an extremely large dataset but there have been UFO sightings for the past 100 years at least!  Adding as many years as this web application can support is ideal.  When there is that much data in one place, people will come back to this application over and over. Adding years worth of data would mean adding another search input box so that people could filter the data by year. 
    - Add interactive charts that are tied to the input boxes so that filtered data can be displayed visually. Interactive bar charts and histograms to show frequency of sightings and/or bubble charts to illustrate visits per state.  There are so many options for displaying the returned data in a more visually appealing way. 
