@@ -14,7 +14,7 @@ The image below shows the search performed on the UFO data with the only filter 
 
 ![TX_UFO_Search](https://user-images.githubusercontent.com/106348899/186559269-3bb8d5c5-0692-4eab-972d-613d23572968.png)
 
-Once you have gone through your search results, simply click the "UFO Sightings" phrase in the top left corner o the page to clear the input boxes.  Now it is ready for a fresh search!!
+Once you have gone through your search results, simply click the "UFO Sightings" phrase in the top left corner of the page to clear the input boxes.  Now it is ready for a fresh search!!
 
 To show a very specific search, using all input boxes for filters, I have search for UFO Sightings on 1/01/2010, in El Cajon, California, in the United States and with a shape of 'triangle'. See below for the returned results:
 
